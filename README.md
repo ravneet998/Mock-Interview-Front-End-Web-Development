@@ -10,7 +10,7 @@ Functionality:
 <li>When a post's body is clicked, the post's comments are fetched from https://jsonplaceholder.typicode.com/posts/${postId}/comments. </li>
 <li>The page displays the body property of all the comments for a post on the page after the post is clicked </li>
 
-Specific Instructions and helpful tips 
+<h3> Specific Instructions and helpful tips </h3>
 Posts have this structure:
 {
   "userId": 1,
